@@ -17,8 +17,8 @@ echo git commit -m "first commit"
 call git commit -m "first commit"
 
 @rem Set remote repository settings.
-echo git branch -M main
-call git branch -M main
+echo git branch -M master
+call git branch -M master
 echo git remote add origin https://github.com/sirofyu/PfcMc.git
 call git remote add origin https://github.com/sirofyu/PfcMc.git
 
@@ -27,8 +27,8 @@ echo git remote -v
 call git remote -v
 
 @rem Push remote repository.
-echo git push -u origin main
-call git push -u origin main
+echo git push -u origin master
+call git push -u origin master
 
 echo Press the key to exit ...
 pause > NUL
