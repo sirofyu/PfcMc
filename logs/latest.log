@@ -1,14 +1,23 @@
-[03:09:31] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[03:09:31] [Server thread/INFO]: Loading properties
-[03:09:31] [Server thread/INFO]: Default game type: SURVIVAL
-[03:09:31] [Server thread/INFO]: Generating keypair
-[03:09:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:09:31] [Server thread/INFO]: Preparing level "world"
-[03:09:31] [Server thread/INFO]: Preparing start region for level 0
-[03:09:32] [Server thread/INFO]: Done (0.395s)! For help, type "help" or "?"
-[03:09:34] [Server thread/INFO]: Stopping server
-[03:09:34] [Server thread/INFO]: Saving players
-[03:09:34] [Server thread/INFO]: Saving worlds
-[03:09:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[03:09:34] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[03:09:34] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[03:41:52] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[03:41:52] [Server thread/INFO]: Loading properties
+[03:41:52] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:52] [Server thread/INFO]: Generating keypair
+[03:41:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:53] [Server thread/INFO]: Preparing level "world"
+[03:41:53] [Server thread/INFO]: Preparing start region for level 0
+[03:41:53] [Server thread/INFO]: Done (0.381s)! For help, type "help" or "?"
+[03:43:33] [User Authenticator #1/INFO]: UUID of player Sirofyuu is bea6a410-9932-48ad-9398-639fc688b71e
+[03:43:33] [Server thread/INFO]: Sirofyuu[/127.0.0.1:61794] logged in with entity id 53 at (-133.5, 63.0, 0.5)
+[03:43:33] [Server thread/INFO]: Sirofyuu joined the game
+[03:43:40] [Server thread/INFO]: Sirofyuu has just earned the achievement [Taking Inventory]
+[03:45:00] [Server thread/INFO]: Sirofyuu lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.net.SocketException: Connection reset], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:45:00] [Server thread/INFO]: Sirofyuu left the game
+[03:45:11] [Server thread/INFO]: Stopping the server
+[03:45:11] [Server thread/INFO]: Stopping server
+[03:45:11] [Server thread/INFO]: Saving players
+[03:45:11] [Server thread/INFO]: Saving worlds
+[03:45:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[03:45:11] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[03:45:11] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[03:45:11] [Server Shutdown Thread/INFO]: Stopping server
+[03:45:11] [Server Shutdown Thread/INFO]: Saving players

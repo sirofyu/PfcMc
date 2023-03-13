@@ -1,6 +1,5 @@
 @echo off
 echo This script will add, commit, and push your changes to GitHub.
-
 REM git add -Aは全ての変更をステージングエリアに追加します
 git add -A
 
