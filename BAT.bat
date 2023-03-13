@@ -33,5 +33,4 @@ call git push -u origin main
 echo Press the key to exit ...
 pause > NUL
 
-echo 終了します
 exit
