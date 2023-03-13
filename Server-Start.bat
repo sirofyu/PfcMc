@@ -1,6 +1,10 @@
 @echo off
-java -Xmx1024M -Xms1024M -jar minecraft_server.1.7.10.jar
 
+@rem Git Pull
+echo git pull
+call git pull https://github.com/sirofyu/PfcMc.git
+
+java -Xmx1024M -Xms1024M -jar minecraft_server.1.7.10.jar
 
 @rem 文字コード Shift-JIS -> UTF-8 変更
 chcp 65001
